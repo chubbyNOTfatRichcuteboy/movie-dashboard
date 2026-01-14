@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:#121212;
+  width:100vw;
+  height:100vh;
+}
+
+
+
+
+
+#pageTitle {
+  filter: drop-shadow(0 0 2em #d3dd1aaa);
+}
+
+
+.card {
+  padding: 2em;
+  transition: all 0.3s ease-in;
+}
+
+.card:hover {
+  box-shadow: 2px 2px;
+}
